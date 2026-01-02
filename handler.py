@@ -11,7 +11,7 @@ try:
 except ImportError:
     print("face_recognition não instalado")
 
-EXPECTED_API_KEY = os.environ.get("API_KEY", "sua_chave_secreta_aqui")
+EXPECTED_API_KEY = "1234567890"
 
 def download_image(url):
     """Baixa a imagem da URL fornecida"""
