@@ -6,6 +6,7 @@
   "iconUrl": "https://example.com/icon.png",
   "config": {
     "runsOn": "GPU",
+    "gpuTypeId": "NVIDIA GeForce RTX 4090",
     "containerDiskInGb": 20,
     "presets": [
       {
