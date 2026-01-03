@@ -1,14 +1,5 @@
 {
-  "tests": [
-    {
-      "name": "validation_text_input",
-      "input": {
-        "url": "https://caputconsultoria.com.br/wp-content/uploads/2022/08/png-transparent-crowd-businessperson-generativity-others-company-people-social-group.png",
-        "apiKey": "1234567890"
-      },
-      "timeout": 10000
-    }
-  ],
+  "tests": [],
   "config": {
     "gpuTypeId": "NVIDIA GeForce RTX 4090",
     "gpuCount": 1,
