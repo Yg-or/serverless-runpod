@@ -8,7 +8,6 @@
     "runsOn": "GPU",
     "gpuTypeId": "NVIDIA GeForce RTX 4090",
     "containerDiskInGb": 20,
-    "skipTests": true,
     "presets": [
       {
         "name": "Preset 1",
