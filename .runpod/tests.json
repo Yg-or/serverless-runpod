@@ -4,7 +4,7 @@
       "name": "validation_text_input",
       "input": {
         "url": "https://caputconsultoria.com.br/wp-content/uploads/2022/08/png-transparent-crowd-businessperson-generativity-others-company-people-social-group.png",
-        "apiKkey": "1234567890"
+        "apiKey": "1234567890"
       },
       "timeout": 10000
     }
